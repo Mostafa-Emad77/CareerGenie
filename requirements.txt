@@ -1,0 +1,7 @@
+streamlit
+llama-index
+duckdb
+numpy
+scikit-learn
+ollama
+requests
