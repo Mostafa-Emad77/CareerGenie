@@ -61,3 +61,6 @@ numpy
 scikit-learn
 ollama
 requests
+```
+### 🤝 Contributing
+Pull requests and suggestions are welcome! If you'd like to contribute, fork the repository and submit a PR.
